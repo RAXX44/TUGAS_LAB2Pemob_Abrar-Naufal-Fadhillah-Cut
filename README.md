@@ -1,5 +1,7 @@
 Nama : ABRAR NAUFAL FADHILLAH CUT
+
 Nim  : 231401130
+
 Kelas : KOM A
 
 Deskripsi 
