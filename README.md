@@ -1,19 +1,20 @@
-**BIODATA**
+### BIODATA
 
-Nama : ABRAR NAUFAL FADHILLAH CUT
+Nama   : ABRAR NAUFAL FADHILLAH CUT
 
-Nim  : 231401130
+Nim    : 231401130
 
-Kelas : KOM A
+Kelas  : KOM A
 
-**Deskripsi** 
+### Deskripsi
 
-Anime Verse adalah aplikasi bertema anime yang memungkinkan pengguna untuk membuat daftar anime favorit mereka. Dengan aplikasi ini, pengguna dapat dengan mudah menyimpan, mengakses, dan meninjau anime yang mereka sukai kapan saja melalui favorite list. Anime Verse juga menyediakan fitur pencarian, filter, dan manajemen daftar favorit agar pengalaman menonton anime menjadi lebih praktis dan menyenangkan.
+**Anime Verse** adalah aplikasi bertema anime yang memungkinkan pengguna membuat daftar anime favorit mereka. Dengan aplikasi ini, pengguna dapat dengan mudah menyimpan, mengakses, dan meninjau anime favorit kapan saja melalui daftar favorit.
+Selain itu, Anime Verse menyediakan fitur pencarian, filter, dan manajemen daftar favorit, sehingga pengalaman menonton anime menjadi lebih praktis dan menyenangkan.
 
-**LINK SS APK**
+### LINK FOTO APK
 
 https://drive.google.com/drive/folders/1oJde1lgYtp4No5_L2Y9fizgRY9G6ep2s?usp=sharing
 
-**LINK DEMO APK**
+### LINK DEMO APK
 
 https://drive.google.com/drive/folders/1CMzzXdF7HVNhPnFnVX8jWgOBJcC-TjY3?usp=sharing
