@@ -12,5 +12,8 @@ Anime Verse adalah aplikasi bertema anime yang memungkinkan pengguna untuk membu
 
 **LINK SS APK**
 
+https://drive.google.com/drive/folders/1oJde1lgYtp4No5_L2Y9fizgRY9G6ep2s?usp=sharing
 
 **LINK DEMO APK**
+
+https://drive.google.com/drive/folders/1CMzzXdF7HVNhPnFnVX8jWgOBJcC-TjY3?usp=sharing
